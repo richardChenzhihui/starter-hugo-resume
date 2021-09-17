@@ -68,6 +68,6 @@ Hi! I'm Zhihui Chen; thanks for visiting my homepage. I'm an undergraduate stude
 
 My research interests include Computer Vision, Few-shot Learning, and Robotics and I keep exploring new interesting research topics in Artificial Intelligence and Computer Vision.
 
-I am also the winner of 2 year Harmonia College scholarship, vice president of TEDxCUHK(SZ), and co-founder of a photography studio at the university.
+I am also the winner of Harmonia College scholarship for two times in succession, vice president of TEDxCUHK(SZ), and co-founder of a photography studio at the university.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
