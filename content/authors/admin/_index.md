@@ -20,7 +20,7 @@ bio: My research interests include robotics, computer vision and few-shot learni
 interests:
 - Computer Vision
 - Few-shot Learning
-- Robotics,
+- Robotics
 
 # Education to show in About widget
 education:
@@ -64,8 +64,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Zhihui Chen; thanks for visiting my homepage. I'm an undergraduate student in statistics at The Chinese University of Hong Kong,Shenzhen. I used to work at Shenzhen Institute of Artificial Intelligence and Robotics for Society for 13 months as a research assistant. Now I am currently doing research on few-shot learning and monocular depth estimation under the supervision of Professor Chenye Wu and Professor Rui Huang.
+Hi! I'm Zhihui Chen; thanks for visiting my homepage. I'm an undergraduate student in statistics at The Chinese University of Hong Kong,Shenzhen. I used to work at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/) for 13 months as a research assistant. Now I am currently doing research on few-shot learning and monocular depth estimation under the supervision of Professor Chenye Wu and Professor Rui Huang.
+
 My research interests include Computer Vision, Few-shot Learning, and Robotics and I keep exploring new interesting research topics in Artificial Intelligence and Computer Vision.
+
 I am also the winner of 2 year Harmonia College scholarship, vice president of TEDxCUHK(SZ), and co-founder of a photography studio at the university.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
