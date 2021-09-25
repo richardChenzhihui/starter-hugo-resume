@@ -7,6 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+- name: Working Experience
+    url: '#experience'
+    weight: 10
+- name: Accomplishment
+    url: '#accomplishments'
+    weight: 10
   #- name: Posts
     #url: '#posts'
     #weight: 20

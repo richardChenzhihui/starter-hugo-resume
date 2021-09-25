@@ -45,7 +45,15 @@ item:
   description: "CET-6 Score： 633"
   organization: CET
   organization_url: https://cet.neea.edu.cn/
-  title: TOFEL Test
+  title: CET-6 Test
+  url: ""
+- certificate_url: https://harmonia.cuhk.edu.cn/page/25
+  date_end: ""
+  date_start: "2020-09-15"
+  description: "Harmonia College Scholarship 2019-2020, 2020-2021"
+  organization: CET
+  organization_url: https://harmonia.cuhk.edu.cn/page/25
+  title: Harmonia College Scholarship
   url: ""
 #- certificate_url: https://www.edx.org
   #date_end: ""
