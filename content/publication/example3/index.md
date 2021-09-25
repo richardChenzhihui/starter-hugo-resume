@@ -7,7 +7,7 @@ title: "专利：基于聚类的小样本负荷预测方法和预测装置"
 authors:
 - admin
 - Qiyuan Wang
-- South China Power Grid Co., Ltd.
+- South China Power Grid Co Ltd
 
 # Author notes (optional)
 author_notes:
