@@ -15,7 +15,7 @@ author_notes:
 - "Equal contribution"
 - "Correspondence Author"
 
-date: "2021-09-030T00:00:00Z"
+date: "2021-09-030"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
