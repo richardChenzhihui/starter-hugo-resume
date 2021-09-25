@@ -9,10 +9,10 @@ main:
     weight: 10
 - name: Working Experience
     url: '#experience'
-    weight: 10
+    weight: 20
 - name: Accomplishment
     url: '#accomplishments'
-    weight: 10
+    weight: 30
   #- name: Posts
     #url: '#posts'
     #weight: 20
@@ -24,7 +24,7 @@ main:
     #weight: 40
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 40
  # - name: Contact
     #url: '#contact'
     #weight: 60
