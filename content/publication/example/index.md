@@ -7,7 +7,7 @@ title: "Clustering Enabled Few-Shot Load Forecasting"
 authors:
 - admin
 - Qiyuan Wang
--Chenye Wu
+- Chenye Wu
 
 # Author notes (optional)
 author_notes:
