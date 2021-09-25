@@ -51,9 +51,9 @@ item:
   date_end: ""
   date_start: "2020-09-15"
   description: "Harmonia College Scholarship 2019-2020, 2020-2021"
-  organization: CET
+  organization: CUHK(SZ) Harmonia College
   organization_url: https://harmonia.cuhk.edu.cn/page/25
-  title: Harmonia College Scholarship
+  title: CUHK(SZ) Harmonia College Scholarship
   url: ""
 #- certificate_url: https://www.edx.org
   #date_end: ""
