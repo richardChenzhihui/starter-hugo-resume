@@ -10,7 +10,7 @@ main:
   - name: Working Experience
     url: '#experience'
     weight: 20
-  - name: Accomplishmentsaccomplishments
+  - name: Accomplishments
     url: '#accomplishments'
     weight: 30
   - name: Projects
