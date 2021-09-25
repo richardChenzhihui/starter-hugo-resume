@@ -10,7 +10,7 @@ role: Undergraduate Student Major in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Chinese University of Hong Kong,Shenzhen
+- name: The Chinese University of Hong Kong, Shenzhen
   url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: BSc in Statistics, Data Science Stream
-    institution: The Chinese University of Hong Kong,Shenzhen
+    institution: The Chinese University of Hong Kong, Shenzhen
     year: 2022
 
 # Social/Academic Networking
@@ -64,10 +64,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Zhihui Chen; thanks for visiting my homepage. I'm an undergraduate student in statistics at The Chinese University of Hong Kong,Shenzhen. I used to work at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/) for 13 months as a research assistant. Now I am currently doing research on few-shot learning and monocular depth estimation under the supervision of Professor Chenye Wu and Professor Rui Huang.
+Hi! I'm Zhihui Chen; thanks for visiting my homepage. I'm an undergraduate student in statistics at The Chinese University of Hong Kong, Shenzhen. I used to work at [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/) for 13 months as a research assistant. Now I am currently doing research on few-shot learning and monocular depth estimation under the supervision of Professor Chenye Wu and Professor Rui Huang.
 
 My research interests include Computer Vision, Few-shot Learning, and Robotics and I keep exploring new interesting research topics in Artificial Intelligence and Computer Vision.
 
-I am also the winner of Harmonia College scholarship for two times in succession, vice president of TEDxCUHK(SZ), and co-founder of a photography studio at the university.
+I am also the winner of Harmonia College scholarship in consecutive years, vice president of TEDxCUHK(SZ), and co-founder of Oceania Studio at CUHK(SZ).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
