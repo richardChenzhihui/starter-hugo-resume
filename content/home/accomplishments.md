@@ -37,7 +37,7 @@ item:
   description: "TOEFL Score： 105"
   organization: ETS
   organization_url: https://www.ets.org/toefl
-  title: TOFEL Test
+  title: TOEFL Test
   url: ""
 - certificate_url: https://cet.neea.edu.cn/
   date_end: ""
